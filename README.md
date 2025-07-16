@@ -31,7 +31,7 @@ Welcome to Week 1 of our Batch-to-Flow ML model project! In this notebook, we wi
    - Tabulate model performance metrics.
    - Plot predicted vs. actual flow yields.
    - 
-##Week 2: Bayesian Optimization Workflow
+# Week 2: Bayesian Optimization Workflow
 
 Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we will:
 
