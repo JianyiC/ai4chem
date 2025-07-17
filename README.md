@@ -45,3 +45,4 @@ Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we wi
    - The communication pipeline with Agent AI will be set up in the rest of this week. And the scoring weight calculation and decision making of Agent AI and BO will be completed using dynamic algorithm.
    - update output as json type.
 
+![Uploading 截屏2025-07-17 11.15.26.png…]()
