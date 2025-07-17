@@ -5,6 +5,8 @@ This project was made possible by the generous support of **Ningbo Yongjiang Lab
 
 ---
 
+<img width="1659" height="754" alt="auto_chem_workflow" src="https://github.com/user-attachments/assets/b456ce1c-f2c5-45b6-8fe6-e58e01b07407" />
+
 # Week 1: Batch-to-Flow ML Baseline
 
 Welcome to Week 1 of our Batch-to-Flow ML model project! In this notebook, we will:
@@ -45,4 +47,4 @@ Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we wi
    - The communication pipeline with Agent AI will be set up in the rest of this week. And the scoring weight calculation and decision making of Agent AI and BO will be completed using dynamic algorithm.
    - update output as json type.
 
-<img width="1659" height="754" alt="auto_chem_workflow" src="https://github.com/user-attachments/assets/b456ce1c-f2c5-45b6-8fe6-e58e01b07407" />
+
