@@ -43,4 +43,5 @@ Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we wi
    - Use the first 10 samples to recommend `x₁₁` (the 11th experiment) and display μ, σ, EI, and scores.
 4. **next job**
    - The communication pipeline with Agent AI will be set up in the rest of this week. And the scoring weight calculation and decision making of Agent AI and BO will be completed using dynamic algorithm.
+   - update output as json type.
 
