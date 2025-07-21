@@ -5,8 +5,6 @@ This project was made possible by the generous support of **Ningbo Yongjiang Lab
 
 ---
 
-###### <img width="1659" height="754" alt="auto_chem_workflow" src="https://github.com/user-attachments/assets/b456ce1c-f2c5-45b6-8fe6-e58e01b07407" />
-
 # Week 1: Batch-to-Flow ML Baseline
 
 Welcome to Week 1 of our Batch-to-Flow ML model project! In this notebook, we will:
