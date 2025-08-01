@@ -30,7 +30,7 @@ Welcome to Week 1 of our Batch-to-Flow ML model project! In this notebook, we wi
 5. **Results & Visualization**
    - Tabulate model performance metrics.
    - Plot predicted vs. actual flow yields.
-# Week 2.1: Bayesian Optimization Workflow
+# Week 2 to week 4: Bayesian Optimization Workflow, performance improve and deep bayesian optimization method. 
 
 Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we will:
 
@@ -41,8 +41,11 @@ Welcome to Week 2 of our Bayesian Optimization project! In this notebook, we wi
    - `explore_exploit_score`: Calculate normalized exploration vs. exploitation metrics.
 3. **Single-Step Demo**
    - Use the first 10 samples to recommend `x₁₁` (the 11th experiment) and display μ, σ, EI, and scores.
-4. **next job**
-   - The communication pipeline with Agent AI will be set up in the rest of this week. And the scoring weight calculation and decision making of Agent AI and BO will be completed using dynamic algorithm.
-   - update output as json type.
+4. **performance improvement**
+   - `try to limit the dataset and get better performance from the orginal model`
+5. **deep bayesian optimization model**
+   - `try to use the deep learning kernal to replace the original matern kernal but the performance did not improve a lot.`
+# week 5: Structured Data to GraphRAG
+   
 
 
